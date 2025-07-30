@@ -57,7 +57,7 @@ pip install streamlit
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### Option 1: Command-Line
 
@@ -148,6 +148,6 @@ graft A 6 2 2 B 3 5 C 2
 
 ---
 
-## 👨‍🔬 Author
+## Author
 
 Toheeb Olamide Balogun 
